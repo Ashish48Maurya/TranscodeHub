@@ -2,7 +2,7 @@
 
 A scalable, cloud-based video transcoding pipeline built with AWS services that automatically processes uploaded videos using FFmpeg in containerized environments.
 
-## 📺 Demo: Click on the below video to see the demo
+## 📺 Demo: Click on the below image to see the demo
 [![Watch the video](./pics/ui.png)](https://drive.google.com/file/d/12q9DUPMYu_YB3UdCkWGDhhXJA7tmJoA4/view?usp=sharing)
 
 &nbsp;
